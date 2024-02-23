@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards related QA APIs "
+  contactDetails:
+    name: "Cherryl P - QA Lead"
+    email: "cherryl@mail.com"
+  onCallSupport:
+    - (000) 000-0000
+    - (000) 000-0000

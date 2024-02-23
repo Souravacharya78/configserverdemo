@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related docker APIs "
+  contactDetails:
+    name: "Jo D - Developer"
+    email: "jo@mail.com"
+  onCallSupport:
+    - (000) 000-1234
+    - (000) 000-1345

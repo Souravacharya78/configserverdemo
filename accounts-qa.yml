@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "Smitha R - QA Lead"
+    email: "smitha@mail.com"
+  onCallSupport:
+    - (000) 000-0000
+    - (000) 000-0000

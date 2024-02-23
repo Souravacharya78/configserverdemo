@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Hey, welcome to EazyBank cards related prod APIs"
+  contactDetails:
+    name: "Sandra H - Product Owner"
+    email: "sandra@mail.com"
+  onCallSupport:
+    - (000) 000-0000
+    - (000) 000-0000

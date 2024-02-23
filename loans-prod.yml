@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Hey, welcome to EazyBank loans related prod APIs "
+  contactDetails:
+    name: "Pelias S - Product Owner"
+    email: "pelias@mail.com"
+  onCallSupport:
+    - (000) 000-0000
+    - (000) 000-0000

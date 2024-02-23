@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "Dragos L - Developer"
+    email: "dragos@mail.com"
+  onCallSupport:
+    - (000) 000-0000
+    - (000) 000-0000

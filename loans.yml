@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to EazyBank loans related local APIs "
+  contactDetails:
+    name: "Amaal G - Developer"
+    email: "amaal@mail.com"
+  onCallSupport:
+    - (000) 000-0000
+    - (000) 000-0000
